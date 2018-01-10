@@ -1,0 +1,2 @@
+# mybettercoin
+Contract Source
